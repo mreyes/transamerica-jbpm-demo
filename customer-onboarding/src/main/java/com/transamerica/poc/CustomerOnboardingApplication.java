@@ -13,9 +13,9 @@ public class CustomerOnboardingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerOnboardingApplication.class, args);
 		
-		logger.info("---------------------------------------------");
-		logger.info("		Customer Onboarding");
-		logger.info("---------------------------------------------");
+		logger.info("-----------------------------------------------------\r");
+		logger.info("		Transamerica Customer Onboarding\r");
+		logger.info("-----------------------------------------------------");
 		
 	}
 }
